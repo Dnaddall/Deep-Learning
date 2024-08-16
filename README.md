@@ -1,4 +1,5 @@
-Deep Learning Assignments
+#Deep Learning Assignments
+
 This repository contains three assignments focused on implementing and comparing different neural network architectures and machine learning techniques. Each assignment is housed in its respective folder and includes a detailed report.
 
 Table of Contents
